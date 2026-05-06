@@ -1,3 +1,6 @@
+/*
+ * GitHub Repository: https://github.com/Mhdi57/Lab_proj
+ */
 #include <mpi.h>
 #include <stdio.h>
 
